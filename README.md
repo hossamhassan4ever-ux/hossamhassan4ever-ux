@@ -14,6 +14,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HossamOdoo&style=flat&color=orange&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/HossamOdoo?style=social)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201011453684)
 
 
 </div>
